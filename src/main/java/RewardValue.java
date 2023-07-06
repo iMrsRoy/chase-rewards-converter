@@ -1,3 +1,5 @@
+// import java.util.Scanner;
+
 public class RewardValue {
     private double cashValue;
     private int milesValue;
